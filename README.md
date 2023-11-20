@@ -11,7 +11,7 @@
 9. Install [oh-my-zsh](https://ohmyz.sh)
 10. Git clone [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) to `~/.oh-my-zsh/custom/plugins`
 11. Copy config files
-    - Copy [yabairc](yabairc) to `~/.config/yabairc`
+    - Copy [yabairc](yabairc) to `~/.config/yabai/yabairc`
     - Copy [skhd](skhdrc) to `~/.config/skhd/skhdrc`
     - Copy [.zhunio.omp.json](.zhunio.omp.json) to `~/.oh-my-posh`
     - Copy [.zshrc](.zshrc) to `~/.zshrc`
